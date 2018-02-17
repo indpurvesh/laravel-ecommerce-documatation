@@ -14,17 +14,17 @@ The Mage2 E commerce framework has a few system requirements.
 
 Below is the list which you will need to make sure your server meets the following requirements:
 
-<div class="content-list" markdown="1">
-- PHP >= 7.1.3
-- OpenSSL PHP Extension
-- PDO PHP Extension
-- GD Library (Image Processing)
-- Mbstring PHP Extension
-- Tokenizer PHP Extension
-- XML PHP Extension
-- Ctype PHP Extension
-- JSON PHP Extension
-</div>
+
+* PHP >= 7.1.3
+* OpenSSL PHP Extension
+* PDO PHP Extension
+* GD Library (Image Processing)
+* Mbstring PHP Extension
+* Tokenizer PHP Extension
+* XML PHP Extension
+* Ctype PHP Extension
+* JSON PHP Extension
+
 
 <a name="installing-mage2-ecommerce"></a>
 ### Installing Mage2 E commerce
