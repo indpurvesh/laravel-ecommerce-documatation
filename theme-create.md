@@ -15,9 +15,9 @@ Theme development is one of the key component in enhancement of Mage2 E commerce
 
 ### Folder Strucuture
 
-- ./Themes/
-    - COMPANY NAME
-        - THEME-NAME
+- ./themes/
+    - company-name (mage2)
+        - theme-name (default)
             - assets
                 - js
                 - css 
