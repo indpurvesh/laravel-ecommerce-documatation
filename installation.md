@@ -24,6 +24,7 @@ Below is the list which you will need to make sure your server meets the followi
 * XML PHP Extension
 * Ctype PHP Extension
 * JSON PHP Extension
+* Curl PHP Extension
 
 
 <a name="installing-mage2-ecommerce"></a>
