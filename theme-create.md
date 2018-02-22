@@ -2,10 +2,9 @@
 
 - [Theme Createtion](#create-theme)
     - [Folder Structure](#themes-folder-structure)
-    - [register.yaml] (#themes-register-file)
+    - [register.yaml](#themes-register-file)
     - [assets](#themes-assets)
     - [views](#themes-views)
-    - [lang](#theme-translation)
 
 <a name="create-theme"></a>
 ### Create Theme
@@ -29,7 +28,7 @@ Theme development is one of the key component in enhancement of Mage2 E commerce
           - register.yaml
               
 
-<a name="themes-register-yaml"></a>    
+<a name="themes-register-file"></a>    
 ### Register Yaml File                  
  
 Register.yaml file the key to register most related path and information about the theme. Things that needs to be careful here is your identifier neeeds to be unique.
@@ -39,6 +38,8 @@ Register.yaml file the key to register most related path and information about t
     lang_folder_name: lang
  
 Once you have an theme register and files setup then you can go to admin=>system=>themes and Activate theme publish all the css/js/images into public/vendor/theme-identifier folder for you. 
+
+<a name="themes-assets"></a>   
 
 ### Theme Assets (Using and css/js) into layout files
 
@@ -64,3 +65,10 @@ How to add Javascript into layout files.
                 'themes/mage2/default/js/bootstrap.min.js], 
                 
                     'public/vendor/mage2-default/js/app.js');
+                    
+                    
+<a name="themes-views"></a>   
+
+### Theme Views
+
+
